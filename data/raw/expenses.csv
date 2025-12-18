@@ -1,0 +1,7 @@
+vendor,category,monthly_cost,seats,department,month
+Slack,Communication,420,35,Engineering,2024-10
+Slack,Communication,420,35,Engineering,2024-11
+Notion,Productivity,300,40,Company-wide,2024-11
+Figma,Design,240,12,Design,2024-11
+AWS,Cloud,1200,NA,Engineering,2024-11
+Zoom,Communication,150,15,Sales,2024-11
